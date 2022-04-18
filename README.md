@@ -1,3 +1,4 @@
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGJcuzUBEACa/O3LA/y00kl6nOlRPVhRfrZ7NrTlnkJDYcCAeF6rwR7N726d
@@ -51,3 +52,4 @@ S7Um/f/rD7mgdWm/iBxSck8S9pS+zqpjejaKksE5A1H/odwQjH14kws1CsGOdWG6
 btOzmCw=
 =80m2
 -----END PGP PUBLIC KEY BLOCK-----
+```
